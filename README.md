@@ -5,9 +5,7 @@ I specialize in transforming complex threat data into actionable, measurable pro
 
 Cybersecurity Researcher & Threat Intelligence Analyst with experience at leading organizations like Trellix, McAfee, and Intel. 
 
-• I’m equipped with excellent technical, customer service, foreign languages, management, and analytical solving skills.
-• Experienced in building long-term professional relationships with clients and cross-functional teams of engineers and researchers from various countries.
-• I’ve led initiatives to strengthen enterprise defenses, automate detection, and improve incident response.
+I’m equipped with excellent technical, customer service, foreign languages, management, and analytical solving skills. Experienced in building long-term professional relationships with clients and cross-functional teams of engineers and researchers from various countries. I’ve led initiatives to strengthen enterprise defenses, automate detection, and improve incident response.
 
 👀The Scoop:
 
