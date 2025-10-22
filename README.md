@@ -4,28 +4,10 @@ Helping you stay safe, and organizations stay ahead. Cyber threats evolve faster
 I specialize in transforming complex threat data into actionable, measurable protection. 
 
 Cybersecurity Researcher & Threat Intelligence Analyst with experience at leading organizations like Trellix, McAfee, and Intel. 
+
 • I’m equipped with excellent technical, customer service, foreign languages, management, and analytical solving skills.
 • Experienced in building long-term professional relationships with clients and cross-functional teams of engineers and researchers from various countries.
 • I’ve led initiatives to strengthen enterprise defenses, automate detection, and improve incident response.
-
-🧠 Core Expertise
-
-• Cyber Threat Intelligence 
-• Web Filtering | EDR | XDR
-• AVTest Results Validation
-• SIEM Optimization (Splunk) 
-• Malware & Phishing Analysis 
-• Cybersecurity Awareness Training
-• AI-Driven Security Awareness
-
-🧠 All-Source Intelligence
-
-• (HUMINT) Human Intelligence
-• (IOCs) Indicators of Compromise
-• (OSINT) Open-Source Intelligence 
-• (POI) Person of interest Investigation
-• DM/CKC/MITRE ATT&CK/TTPs Frameworks
-
 
 👀The Scoop:
 
