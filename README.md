@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @fhmgithub
-- 👀 I’m interested in Cyber Security, Threat Hunter, Data Analyst. Technically minded and highly analytical professional with over 15 years of experience in the Cyber field. With tremendous ability to work in teams for the overall betterment of the company. Equipped with excellent customer service, communication, foreign languages, planning, management, and analytical solving skills.
+- 👋 Hi, I’m Felix | @fhmgithub
+  
+Helping you stay safe, and organizations stay ahead. Cyber threats evolve faster than most defenses. 
+👀I specialize in transforming complex threat data into actionable, measurable protection. 
 
-Skilled in Threat Hunting and mitigating Cyber Threats (tracking malware & phishing campaigns) while working remotely for 10 years. Proven success in enhancing the coverage of multi-language URL Web Filtering Products and Antivirus databases for Intel & McAfee. Experienced in building long-term professional relationships with clients and cross-functional teams of engineers and researchers from various countries.
+Cybersecurity Researcher & Threat Intelligence Analyst with experience at leading organizations like Trellix, McAfee, and Intel. 
+• I’m equipped with excellent technical, customer service, foreign languages, management, and analytical solving skills.
+• Experienced in building long-term professional relationships with clients and cross-functional teams of engineers and researchers from various countries.
 
-- 🌱 I’m currently looking for a new remote opportunity. learning Python & working on my Security+ Cert
-- 💞️ I’m looking to collaborate on open source projects, and privates.
-- 📫 Feel free to reach me at https://www.linkedin.com/in/felixhmartinez/
+I’ve led initiatives to strengthen enterprise defenses, automate detection, and improve incident response.
+
+🧠 Core Expertise
+
+• Cyber Threat Intelligence 
+• Web Filtering | EDR | XDR
+• AVTest Results Validation
+• SIEM Optimization (Splunk) 
+• Malware & Phishing Analysis 
+• Cybersecurity Awareness Training
+• AI-Driven Security Awareness
+
+🌱 I’m currently looking for a new remote opportunity. learning Python & working on my Security+ Cert
+💞️ I’m looking to collaborate on open source projects, and privates.
+📫 Feel free to reach me at https://www.linkedin.com/in/felixhmartinez | bio.site/felixhmartine
 
 <!---
 fhmgithub/fhmgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
